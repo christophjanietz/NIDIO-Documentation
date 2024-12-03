@@ -4,9 +4,9 @@ Documentation of NIDIO (manual incl. codebook)
 
 Version: V1.0
 
-GitHub: github.com/christophjanietz/NIDIO-Code
+GitHub: [github.com/christophjanietz/NIDIO-Code](github.com/christophjanietz/NIDIO-Code)
 
-OSF: osf.io/9b2xh
+OSF: [osf.io/9b2xh](osf.io/9b2xh)
 
 ## NIDIO in short
 

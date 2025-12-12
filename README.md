@@ -2,7 +2,7 @@
 
 Documentation of NIDIO (manual incl. codebook)
 
-Version: V1.2
+Version: V1.3
 
 GitHub: [github.com/christophjanietz/NIDIO-Code](https://www.github.com/christophjanietz/NIDIO-Code)
 
